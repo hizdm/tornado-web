@@ -9,6 +9,7 @@ MySQL数据库基础操作类
 """
 class MysqlHelper(object):
     conn = None
+    _instance = None
 
     def __init__(self, host, port, db, user, password, charset='utf8'):
         self.host = host
@@ -17,6 +18,12 @@ class MysqlHelper(object):
         self.user = user
         self.password = password
         self.charset = charset
+
+    def __new__(cls, *args, **kwargs):
+        if not cls._instance:
+            cls._instance = object.__new__(cls)
+
+        return cls._instance
 
     """
     数据库连接
