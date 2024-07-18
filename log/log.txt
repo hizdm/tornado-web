@@ -1,0 +1,42 @@
+[I 240718 09:43:41 autoreload:201] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:43:47 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\library\log\loghelper.py modified; restarting server
+[2024-07-18 09:44:05 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 2.00ms
+[2024-07-18 09:44:35 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.03ms
+[2024-07-18 09:44:35 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:44:36 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 2.01ms
+[2024-07-18 09:44:36 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:44:36 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.01ms
+[2024-07-18 09:44:36 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:44:36 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 2.00ms
+[2024-07-18 09:44:37 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 2.00ms
+[2024-07-18 09:44:37 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 0.00ms
+[2024-07-18 09:44:37 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:44:37 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:44:37 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:44:49 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\library\log\loghelper.py modified; restarting server
+[2024-07-18 09:45:09 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:45:11 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:45:18 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\library\log\loghelper.py modified; restarting server
+[2024-07-18 09:45:26 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:46:23 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:46:33 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:46:49 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:46:50 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:47:00 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:47:01 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:47:04 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:47:10 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:47:37 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:50:17 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 2.00ms
+[2024-07-18 09:50:17 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 0.99ms
+[2024-07-18 09:50:17 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:50:17 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:50:17 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:50:17 web.py:log_request:2239 WARNING] 404 GET /aaa (127.0.0.1) 1.00ms
+[2024-07-18 09:52:00 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:52:27 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:52:46 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:52:48 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:52:58 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:53:25 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
+[2024-07-18 09:55:17 autoreload.py:_check_file:201 INFO] D:\zzl\tornado-web\tornado-web\app.py modified; restarting server
